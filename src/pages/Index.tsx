@@ -78,10 +78,10 @@ const Index = () => {
         </div>
         <div className="container mx-auto px-4 relative z-10 text-center">
           <h2 className="text-4xl md:text-6xl font-bold text-foreground mb-6 animate-fade-in">
-            Добро пожаловать в нашу кофейню
+            Идеальный brew для твоего bloom
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
-            Уютная атмосфера, ароматный кофе и душевное общение
+            Варим. Цветём. Вдохновляем.
           </p>
           <Button size="lg" className="shadow-lg hover:shadow-xl transition-all" asChild>
             <a href="#menu">
