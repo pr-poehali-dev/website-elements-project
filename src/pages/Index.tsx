@@ -77,7 +77,7 @@ const Index = () => {
           />
         </div>
         <div className="container mx-auto px-4 relative z-10 text-center">
-          <h2 className="text-4xl md:text-6xl font-bold text-foreground mb-6 animate-fade-in">
+          <h2 className="text-4xl md:text-6xl font-bold text-foreground mb-6 animate-fade-in acquest-font">
             Идеальный brew для твоего bloom
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
@@ -108,8 +108,8 @@ const Index = () => {
                   <div className="w-16 h-16 mx-auto mb-4 bg-primary/10 rounded-full flex items-center justify-center">
                     <Icon name={item.icon} size={32} className="text-primary" />
                   </div>
-                  <CardTitle className="text-2xl">{item.name}</CardTitle>
-                  <CardDescription className="text-3xl font-bold text-primary mt-2">
+                  <CardTitle className="text-2xl acquest-font">{item.name}</CardTitle>
+                  <CardDescription className="text-3xl font-bold text-primary mt-2 acquest-font">
                     {item.price} ₽
                   </CardDescription>
                 </CardHeader>
