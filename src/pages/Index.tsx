@@ -54,9 +54,9 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img 
-              src="https://cdn.poehali.dev/files/logoza.ru.png" 
-              alt="Логотип jERP" 
-              className="h-12 object-contain"
+              src="https://cdn.poehali.dev/files/logoza.ru (1).png" 
+              alt="Brew & Bloom" 
+              className="h-16 object-contain"
             />
 
           </div>
