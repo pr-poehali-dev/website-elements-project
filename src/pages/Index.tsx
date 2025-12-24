@@ -216,14 +216,14 @@ const Index = () => {
                     <Icon name="Home" size={20} className="text-primary mt-1" />
                     <div>
                       <p className="font-semibold">Адрес:</p>
-                      <p className="text-muted-foreground">г. Москва, ул. Примерная, д. 1</p>
+                      <p className="text-muted-foreground">г. Зеленоград, ул. Юности, 11</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <Icon name="Phone" size={20} className="text-primary mt-1" />
                     <div>
                       <p className="font-semibold">Телефон:</p>
-                      <p className="text-muted-foreground">+7 (999) 123-45-67</p>
+                      <p className="text-muted-foreground">+7 (961) 510-85-50</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
