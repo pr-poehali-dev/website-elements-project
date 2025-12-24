@@ -54,11 +54,11 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img 
-              src="https://cdn.poehali.dev/projects/9c21caea-5874-4bc1-8069-dd423cc2e0c1/files/a6166647-107f-4cc6-946a-97767743ed43.jpg" 
-              alt="Логотип" 
-              className="w-12 h-12 rounded-full object-cover shadow-lg"
+              src="https://cdn.poehali.dev/files/logoza.ru.png" 
+              alt="Логотип jERP" 
+              className="h-12 object-contain"
             />
-            <h1 className="text-2xl md:text-3xl font-bold text-primary">Кофейня</h1>
+
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#menu" className="text-foreground hover:text-primary transition-colors">Меню</a>
