@@ -25,17 +25,17 @@ const Index = () => {
     { 
       name: 'Звягинцева Алёна Алексеевна', 
       position: 'Управляющий',
-      image: 'https://cdn.poehali.dev/projects/9c21caea-5874-4bc1-8069-dd423cc2e0c1/files/7dfdda8c-aee5-419f-8b6e-14bdc52ae761.jpg'
+      image: 'https://cdn.poehali.dev/projects/9c21caea-5874-4bc1-8069-dd423cc2e0c1/files/7459c91e-e865-44ed-a915-ab321440cfed.jpg'
     },
     { 
       name: 'Неклюдова Анна Александровна', 
       position: 'Главный бариста',
-      image: 'https://cdn.poehali.dev/projects/9c21caea-5874-4bc1-8069-dd423cc2e0c1/files/7dfdda8c-aee5-419f-8b6e-14bdc52ae761.jpg'
+      image: 'https://cdn.poehali.dev/projects/9c21caea-5874-4bc1-8069-dd423cc2e0c1/files/ed7fedf0-231c-4eda-aee3-6f91786fb8ca.jpg'
     },
     { 
       name: 'Кузьмичёва Варвара Евгеньевна', 
       position: 'Бариста',
-      image: 'https://cdn.poehali.dev/projects/9c21caea-5874-4bc1-8069-dd423cc2e0c1/files/7dfdda8c-aee5-419f-8b6e-14bdc52ae761.jpg'
+      image: 'https://cdn.poehali.dev/projects/9c21caea-5874-4bc1-8069-dd423cc2e0c1/files/fbcd2fbe-c5ed-4716-9308-8e8e0ab1bc87.jpg'
     }
   ];
 
