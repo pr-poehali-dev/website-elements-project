@@ -239,7 +239,7 @@ const Index = () => {
               <Card className="shadow-lg overflow-hidden">
                 <div className="aspect-video w-full">
                   <iframe
-                    src="https://yandex.ru/map-widget/v1/?ll=37.622504,55.753215&z=12"
+                    src="https://yandex.ru/map-widget/v1/?ll=37.203611,55.987222&z=16&pt=37.203611,55.987222,pm2rdm"
                     width="100%"
                     height="100%"
                     frameBorder="0"
